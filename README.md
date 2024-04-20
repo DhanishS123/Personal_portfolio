@@ -13,5 +13,4 @@ This project is built using the following technologies:
 
 HTML/CSS: For structuring and styling the website.
 JavaScript: Adds interactivity to the web pages.
-Bootstrap: For responsive design, ensuring the site is mobile-friendly.
 GitHub Pages: Hosts the website, providing a reliable and accessible online presence.
